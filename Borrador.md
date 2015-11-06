@@ -16,9 +16,9 @@ También tenemos cuñados, multitud de ellos, el que te cuenta todo lo que sabe 
 
 Tenemos tías locas que te obligan a imprimir código y tíos solterones que te invitan a seguir la palabra del Señor, cuando tú lo único que quieres es enterarte de una de sus clases aunque sea con parábolas... o hipérbolas.   
 
-Pero sobre todo nos hemos tenido los unos a los otros pese a no estar demasiado unidos. Somos pocos y aún no ha parido la abuela, aún así nos hemos dividido, segregado y hecho la mitosis, grupos había y salir juntos pues... poco, muy poco. Risas ha habido muchas pero casi siempre en terreno académico, el roce hace el cariño pero demasiado roce hace rozaduras. Pero ayyy cuando nos mezclaron, cuando dejamos de ser ese grupo único, ese club de los poeta muertos, ayyy como atacaran a alguno de los nuestros. Entonces sácabamos el sarcasmo, la inquina y el sentimiento de grupo. ¡Que somo doble gradistas!   
+Pero sobre todo nos hemos tenido los unos a los otros pese a no estar demasiado unidos. Somos pocos y aún no ha parido la abuela, aún así nos hemos dividido, segregado y hecho la mitosis, grupos había y salir juntos pues... poco, muy poco. Risas ha habido muchas pero casi siempre en terreno académico, el roce hace el cariño pero demasiado roce hace rozaduras. Pero ayyy cuando nos mezclaron, cuando dejamos de ser ese grupo único, ese club de los poeta muertos, ayyy como atacaran a alguno de los nuestros. Entonces sácabamos el sarcasmo, la inquina y el sentimiento de grupo. ¡Que somos doble gradistas!   
 
-Somos doble gradistas y estamos orgullosos de ellos, si no mirad lo feos que son el azul y el marrón juntos, pero qué porras, nos ponemos los dos colores porque podemos y porque Agatha Ruíz de la Prada aprueba esto.
+Somos doble gradistas y estamos orgullosos de ello, si no mirad lo feos que son el azul y el marrón juntos, pero qué porras, nos ponemos los dos colores porque podemos y porque Agatha Ruíz de la Prada aprueba esto.
 
 ...
 
