@@ -10,6 +10,16 @@ Buenas tardes. No he traído el discurso impreso para demostrar que se puede aca
 
 ...
 
+Somos la primera promoción del doble grado en Granada así que vamos a realizar el primer estudio antropológico sobre la evolución del homo sapiens hasta el homo duplex gradus:
+
+Cuando el homo sapiens se matricula en el doble grado por unos procesos mentales y hormonales aún sin explicación científica evoluciona a lo que es llamado el homo inceptor un ser alegre y vivaracho. Aparece en clase con una sonrisa o con cara de asustado, pero sobre todo con mucha ilusión. Es una especie sociable dispuesta a conocer a sus nuevos compañeros y profesores, a aprender nuevas materias a emprender un nuevo método de estudio que lo prepare para el futuro. Esta fase de ilusión dura una dos semana y podría verse como un estado larvario del homo quaestio.   
+
+El homo questio es un ser muy dubitativo con dudas como "¿por qué me metí yo aquí?" o "¿cómo estaría yo en magisterio?". Este cambio se produce cuando el homo inceptor empieza a dar sus primeras clases después de las presentaciones en las que, iluso de él, ha copiado la bibliografía recomendada. Tras estas primeras clases el especimen se da cuenta de que no ha visto ni un sólo número y de que el binario sirve para algo más que pare decir "101 por el culo te la hinco".
+
+Continuará...
+
+...
+
 En el fondo, somos como una pequeña familia. Con padres separados que para que los quieran no hacen sino hablarles a los hijos de lo mal que lo ha hecho el otro. Matematicas e Informatica son como los Capuleto y Montesco, como los Stark y los Lannister *(que confirme alguien que sepa de esta gente que se llevan mal)*, o los Borbón y los Austrias. Estos últimos ejemplos explican la endogamia de la universidad.   
 
 También tenemos cuñados, multitud de ellos, el que te cuenta todo lo que sabe o se inventa de tecnología, el que va de guay porque tiene muchas maquinitas y el que siempre se hace el listo con frases como "suma, es aritmética básica"; bueno vale, tenemos sólo un cuñado, pero muy polivalente.   
