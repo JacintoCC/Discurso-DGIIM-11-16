@@ -16,7 +16,7 @@ Cuando el homo sapiens se matricula en el doble grado por unos procesos mentales
 
 El homo questio es un ser muy dubitativo con dudas como "¿por qué me metí yo aquí?" o "¿y todo esto pagando?". Este cambio se produce cuando el homo inceptor empieza a dar sus primeras clases después de las presentaciones en las que, iluso de él, ha copiado la bibliografía recomendada. Tras estas primeras clases el especimen se da cuenta de que no ha visto ni un solo número y de que el binario sirve para algo más que para decir "101 por el culo te la hinco".
 
-Pasado el primer curso el homo questio ya es un ser adulto y curtido en mil batallas por la supervivencia, a aprendido a buscarse las castañas en Internet y espera los puentes con ansia para ponerse al día con todo lo que lleva atrasado.
+Pasado el primer curso el homo questio ya es un ser adulto y curtido en mil batallas por la supervivencia, ha aprendido a buscarse las castañas en Internet y espera los puentes con ansia para ponerse al día con todo lo que lleva atrasado.
 
 Tras esta fase el homo questio pasa a ser un homo ferreus, ferreus porque tiene una férrea fe en que "este año sí". Emprende cada curso con una agenda con mil anotaciones, durante el primer mes, luego ya tal... Comienza a ir a charlas informativas y hacer cursos por su cuenta, aprende a aprender fuera de los límites de la universidad de la cuál ya empieza a comprender su mecanismo, una máquina mal engrasada y con mucho cable suelto.
 
