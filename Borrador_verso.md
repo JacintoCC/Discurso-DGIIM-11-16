@@ -1,22 +1,20 @@
 Borrador en verso
 =================
 
-Buenas tardes, compañeras,  
-familia, profesorado.  
-No traigo el discurso impreso  
-para acabar la carrera sin haber copiado.
+Buenas tardes, familiares,  
+compañeros, profesorado,  
+después hay partido, así que en 15 minutos  
+debemos haber acabado.
 
-(Alguien tira/lleva un papel al que lea)
+De Ésija, Almería, Granada,  
+se mezclaron todos los acentos,  
+y el que llegó de Segovia  
+no sé cómo pudo entendernos.
 
-Disculpen, esto no estaba preparado.  
-No sé para qué lo ensayamos ayer,  
-disculpen, esto no estaba preparado,  
-es la normativa del TFG.
-
-Llegamos en primero sin miedo alguno,  
-ilusionados, pegando brincos,  
-y tras aprender binario dijimos "101,  
-por el culo te la hinco".  
+Para cada problema  
+encontrábamos una solución,  
+preguntarle a Gamu era el lema,  
+que le den a StackOverflow.
 
 Hemos seguido en la carrera  
 porque en el fondo nos va el sadismo,  
@@ -31,17 +29,8 @@ como España en el Mundial.
 Hicieron bien en huir pronto,  
 quedarse era un disparate,  
 la lástima es que la orla  
-es de tamaño almanaque.
+es de tamaño almanaque.  
 
-De Ésija, Almería, Granada,  
-se mezclaron todos los acentos,  
-y el que llegó de Segovia  
-no sé cómo pudo entendernos.
-
-Para cada problema  
-encontrábamos una solución,  
-preguntarle a Gamu era el lema,  
-que le den a StackOverflow.
 
 Somos una pequeña familia,  
 con padres separados, beligerantes,  
@@ -77,12 +66,6 @@ El azul con el marrón,
 qué combinación, qué disloque,  
 parece el traje de un bufón  
 o una chaquetilla de Chicote.
-
-
-Vamos a ir acabando,  
-que los de 4º vienen con fuerza,  
-y hay que encontrar trabajo  
-antes de que acaben la carrera.
 
 Buenas noches y disfruten,  
 que nos lo hemos ganado.    
