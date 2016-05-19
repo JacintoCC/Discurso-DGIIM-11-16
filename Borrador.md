@@ -36,3 +36,30 @@ Somos doble gradistas y estamos orgullosos de ello, si no mirad lo feos que son 
 Por último, es necesario aclarar que si nos quejamos, no es por vicio o por costumbre, sino porque creemos que se puede mejorar el doble grado para que sea, como se pretendía, de excelencia. Y no sólo el grado puede mejorar, sino también la Universidad, que debería ser pública, laica, feminista y eficiente.
 
 Vamos a ir acabando, que los de 4º vienen con fuerza y hay que encontrar trabajo antes de que salgan ellos.
+
+Vamos a intentar mostrar las situaciones por las que pasamos en la carrera, lo haremos de forma dramática y exagerada, aunque aquello que relatemos sobre situaciones que involucren profesores no, esto será más real que un número complejo en el eje de abcisas. Deciros en primer lugar que hemos preparado a conciencia el discurso ya que se nos ha dicho que el método de evaluación es como en IA 10 ptos al primero y menos dos al resto.
+
+La verdad es que el inicio de la carrera se asemeja un tanto a los inicios en la escuela, para aprender a escribir teníamos que hacer caligrafías Rubio, aquí para aprender a escribir código teníamos que seguir el método Cubero que si no... Lo mejor de la carrera es que si metieran una cámara en nuestra habitación e hicieran un plano secuencia sin audio y con la música de Odisea en el espacio de fondo lo que se vería sería un mono aporreando un teclado y mirando con odio al segmentation fault que ha aparecido en la terminal. Anda que no hemos tenido altibajos y lo que nos han sufrido nuestras madres, algunas más que otras, pero siempre, como si fuese Toy Story, cuando nos sentíamos decaídos pensábamos "hay un ingeniero en mí". Claro que esto se aplicaba a informática, en matemáticas rezabas para que te cayese teoría y ya está; si no pues ya sabéis, en Cálculo I notas binarias, la frase literal del profesor fue "hay un 3, un 4 y el resto es binario".
+
+Lo más curioso de esta carrera es la concentración de estudiantes de Priego, son como los chinos en los torneos de Ping-Pong. 
+
+¿Recordáis la canción Mil nombres mil de Leonardo Dantés? Pues lo mismo se puede hacer para los exámenes, porque son exámenes: ni control, ni pruebecilla, ni ejercicio en clase, ni parcialillo, ni simulacro, ni algo que hay que hacer para que estudiéis, ni nada de eso. Examen, con sus suspensos y sus cosas de examen.
+
+Después de las guerras de: tortilla con cebolla o sin cebolla, Madrid o Barça, Nesquick o Colacao nosotros tenemos la de: el cuadradito de la demostración relleno o sin rellenar.
+
+¿Recodías cuando cierto profesor intentó demostrar un corolario sin usar el resultado del que era Corolario?
+
+Y algo que todos habéis hecho, tener que calcular un límite de una sucesión, creer que tiende a infinito y calcular algunos términos en la calculadora para ver que se iban haciendo más grandes.
+
+Anda que no daría alegraría tener acabada una práctica y que la atrasaran para poder hacer cosas extra, digo alegraría porque eso no ha pasado, si nos retrasan ahora una entrega de SWAP nos vamos directos de la graduación a acabarla.
+
+¿Y esa tensión en Modelos II cuando podías suspender todo lo que llevabas aprobado por un examen de prácticas en el que tenías que llevar los códigos impresos y copiarlos a mano en el ordenador? 
+
+A continuación vamos a decir algunas frases del cine adaptadas a nuestra carrera:
+- La carrera es como una caja de bombones, nunca sabes qué trabajo tendrán que entregar.
+- Todo esfuerzo desaparecerá como lágrimas en la lluvia.
+- Me encanta en olor a tiza por las mañanas.
+- La primera regla de la recursividad es la primera regla de la recursividad.
+
+
+
