@@ -31,7 +31,6 @@ quedarse era un disparate,
 la lástima es que la orla  
 es de tamaño almanaque.  
 
-
 Somos una pequeña familia,  
 con padres separados, beligerantes,  
 que si se llevan mejor desde este día,  
@@ -56,6 +55,11 @@ Entre los lugares habituales,
 los hay peores y mejores,  
 como la 1.8 o la M2,  
 y la cafetería de aparejadores.
+
+Otros no los hemos pisado todavía  
+como la fiesta de la primavera,  
+la calle, el tranvía,  
+o el tercer edificio en la escuela.
 
 Menos mal que en Informática  
 el color de la banda es marrón y no rojo  
