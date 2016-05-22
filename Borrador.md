@@ -6,7 +6,7 @@ Buenas tardes. No he traído el discurso impreso para demostrar que se puede aca
 ...
 Mi mamá siempre decía que la vida es como una caja de bombones. Nunca sabes que carrera vas a coger. Pero las palabras "doble grado" eran una oferta que no podíamos rechazar. "Seré el rey del mundo" pensabamos para nuestros adentros.
 
-Pero no mucho tiempo antes en una facultad muy, muy lejana, los señores oscuros diseñaron una carrera para atraerlos a todos y atarlos en las tinieblas. Decidieron que la primera regla del doble grado sería no hablar del doble grado. Decidieron que aprenderíamos a "escribir código, pulir código". Gritaríamos "oh capitan, mi capitan" aunque el mundo se caiga a pedazos.
+Pero no mucho tiempo antes en una facultad muy, muy lejana, los señores oscuros diseñaron una carrera para atraerlos a todos y atarlos en las tinieblas. Decidieron que la primera regla del doble grado sería no hablar del doble grado. Decidieron que aprenderíamos a "escribir código, pulir código". Gritaríamos "oh capitán, mi capitán" aunque el mundo se caiga a pedazos.
 
 Y con nuestra ingenuidad, seguimos adelante. Este podría ser el principio de una bella amistad. Nos veíamos como duros guerreros. "Pueden quitarnos la vida, pero jamás nos quitarán... ¡la libertad!". Y pasara lo que pasara, "siempre nos quedará verano", nos animabamos...
 
@@ -57,7 +57,7 @@ La verdad es que el inicio de la carrera se asemeja un tanto a los inicios en la
 
 Lo más curioso de esta carrera es la concentración de estudiantes de Priego, son como los chinos en los torneos de Ping-Pong.
 
-¿Recordáis la canción Mil nombres mil de Leonardo Dantés? Pues lo mismo se puede hacer para los exámenes, porque son exámenes: ni control, ni pruebecilla, ni ejercicio en clase, ni parcialillo, ni simulacro, ni algo que hay que hacer para que estudiéis, ni nada de eso. Examen, con sus suspensos y sus cosas de examen.
+¿Recordáis la canción "Tiene nombres mil" de Leonardo Dantés? Pues lo mismo se puede hacer para los exámenes, porque son exámenes: ni control, ni pruebecilla, ni ejercicio en clase, ni parcialillo, ni simulacro, ni algo que hay que hacer para que estudiéis, ni nada de eso. Examen, con sus suspensos y sus cosas de examen.
 
 Después de las guerras de: tortilla con cebolla o sin cebolla, Madrid o Barça, Nesquick o Colacao nosotros tenemos la de: el cuadradito de la demostración relleno o sin rellenar.
 
@@ -67,7 +67,7 @@ Y algo que todos habéis hecho, tener que calcular un límite de una sucesión, 
 
 Anda que no daría alegraría tener acabada una práctica y que la atrasaran para poder hacer cosas extra, digo alegraría porque eso no ha pasado, si nos retrasan ahora una entrega de SWAP nos vamos directos de la graduación a acabarla.
 
-¿Y esa tensión en Modelos II cuando podías suspender todo lo que llevabas aprobado por un examen de prácticas en el que tenías que llevar los códigos impresos y copiarlos a mano en el ordenador?
+¿Y esa tensión en Métodos II cuando podías suspender todo lo que llevabas aprobado por un examen de prácticas en el que tenías que llevar los códigos impresos y copiarlos a mano en el ordenador?
 
 A continuación vamos a decir algunas frases del cine adaptadas a nuestra carrera:
 - La carrera es como una caja de bombones, nunca sabes qué trabajo tendrán que entregar.
