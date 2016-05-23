@@ -56,10 +56,30 @@ los hay peores y mejores,
 como la 1.8 o la M2,  
 y la cafetería de aparejadores.
 
-Otros no los hemos pisado todavía  
+Otros, desconocidos todavía  
 como la fiesta de la primavera,  
-la calle, el tranvía,  
+la calle, el Corpus, el tranvía,  
 o el tercer edificio en la escuela.
+
+Corriendo de la ETSIIT a la facultad,  
+luego gire a la izquierda, ha llegado a su destino,  
+corriendo de la facultad a la ETSIIT,  
+más mareados que un cartero chino.
+
+Llevar la calculadora a los exámenes  
+como el que lleva una estampita  
+ni te va a ayudar a aprobar,  
+ni los nervios te los quita.
+
+Hay sin resolver preguntas pendientes,  
+que no deben quedarse en el tintero,  
+como si de veras existe la topología cociente,  
+o si el cuadrado de fin de demostración es hueco o relleno.
+
+Mentalizados, los exámenes programados
+cubriendo todo el calendario,  
+y en primero, Cálculo I,
+0,1,1,0, notas en binario.
 
 Menos mal que en Informática  
 el color de la banda es marrón y no rojo  
