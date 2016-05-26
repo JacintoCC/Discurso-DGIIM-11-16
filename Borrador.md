@@ -5,10 +5,14 @@ Buenas tardes. No he traído el discurso impreso para demostrar que se puede aca
 
 
 (Alguien tira/lleva un papel al que lea) Disculpen, esto no estaba preparado. Ya saben, siempre hay imprevistos de última hora. No nos lo tengan en cuenta, somos la primera promoción. (Abre el papel. Se sorprende) Oh, es la normativa del TFG. Disculpen, esto no estaba preparado.
-...
 
 Si no pillan los chistes, no se preocupen, tampoco es que se pierdan mucho, tenemos una versión del director con los comentarios, aunque puede ser más pesada que demostrar de nuevo un teorema en la demostración del corolario.
-...
+
+Nos hemos tenido los unos a los otros. Risas ha habido muchas, nunca ha faltado alguna tontería, muchas veces relacionada con la materia de alguna asignatura, lo cual tiene bastante mérito. Pero ay cuando nos mezclaron, cuando dejamos de ser ese grupo único, ese club de los poeta muertos, ay como atacaran a alguno de los nuestros. Entonces sacábamos el sarcasmo, la inquina y el sentimiento de grupo.   
+
+Los exámenes son exámenes: ni control, ni pruebecilla, ni ejercicio en clase, ni parcialillo, ni simulacro, ni algo que hay que hacer para que estudiéis, ni nada de eso. Examen, con sus suspensos y sus cosas de examen.  
+
+Anda que no alegraría tener acabada una práctica y que la atrasaran para poder hacer cosas extra, digo alegraría porque eso no ha pasado, si nos retrasan ahora una entrega de SWAP nos vamos directos de la graduación a acabarla.
 
 Como somos la primera promoción del doble grado en Granada, vamos a realizar el primer estudio antropológico sobre la evolución del *Homo sapiens* hasta el *Homo duplex gradus*:
 
@@ -25,14 +29,17 @@ Durante esta fase, que dura aproximadamente tres cursos, el *Homo ferreus* se ad
 Finalmente en quinto comienza a prepararse para convertirse en un *Homo duplex gradus*. Empieza el TFG con alguna incógnita, no sabe qué hacer. Mira hacia matemáticas, mira hacia informática, está asustado... Ha elegido optativas y por más que lo ha meditado no ha acertado en su elección, está condenado al sufrimiento de "elegir su pena de muerte". Pero al *Homo ferrus* le queda un pequeño remanso de paz, en Empresa vuelven sus antiguos congéneres que se habían separado de él al dejar el nido, los pequeños huevos que se rompieron juntos vuelven más desarrollados que nunca: tienen una gran habilidad para hacer demostraciones, responden preguntas en Stackoverflow y otros ya han encontrado su vocación dentro de su pequeño mundo.  
 El *Homo ferreus* despliega sus dos títulos, los agita con algo de recelo, no se vaya a cambiar alguna normativa y se los quiten hasta nueva orden; levanta el vuelo con su brillante plumaje azul y marrón y deja todo atrás: los ejercicios tipo que no caían en el examen, las entregas un minuto antes del límite y PRADO. Ya es un *Homo duplex gradus*.
 
-...
+Hemos sobrevivido a cosas tan reales como un número imaginario al cuadrado. Hemos sobrevivido a las notas binarias de Cálculo I, a Cálculo II, a Topología I. Hemos sobrevivido al examen hecho específicamente para nosotros de Modelos de Computación, a repetir un examen de Sistemas Concurrentes porque se subieron las soluciones erróneas a Internet durante el mismo, a exámenes literalmente imposibles de hacer, a modificaciones de estos exámenes en tiempo de ejecución que tampoco se podían hacer. Hemos sobrevivido a Probabilidad e Inferencia, o a lo que deberían haber sido Probabilidad e Inferencia, al departamento innombrable, a la competición entre 20 personas de Inteligencia Artificial. Nuestro corazón ha sobrevivido a demasiadas entregas demasiado cerca de la hora límite. Hemos sobrevivido al teorema de Lax Milgram, a entregar prácticas de FIS de 80 folios impresos, a copiar en un examen tu propio código impreso en el ordenador. Hemos sobrevivido a exámenes entre 0 y 1 que multiplicaban las notas de todo el cuatrimestre. Falta por ver si sobreviviremos al TFG.
+
 Mi mamá siempre decía que la vida es como una caja de bombones. Nunca sabes que carrera vas a coger. Pero las palabras "doble grado" eran una oferta que no podíamos rechazar. "Seré el rey del mundo" pensabamos para nuestros adentros.
 
-Pero no mucho tiempo antes en una facultad muy, muy lejana, los señores oscuros diseñaron una carrera para atraerlos a todos y atarlos en las tinieblas. Decidieron que la primera regla del doble grado sería no hablar del doble grado. Decidieron que aprenderíamos a "escribir código, pulir código". Aporreábamos el teclado frente al monolito negro, que era la torre. Gritaríamos "oh capitán, mi capitán" aunque el mundo se caiga a pedazos.
+Pero no mucho tiempo antes en una facultad muy, muy lejana, los señores oscuros diseñaron una carrera para atraerlos a todos y atarlos en las tinieblas. Decidieron que la primera regla del doble grado sería no hablar del doble grado. Decidieron que aprenderíamos a "escribir código, pulir código". Aporreábamos el teclado frente al monolito negro, que era la torre. Subidos a una mesa gritamos "¡Oh, doctor! ¡Mi doctor!". El mundo se derrumba y nosotros estudiamos.
 
-Y con nuestra ingenuidad, seguimos adelante. Este podría ser el principio de una bella amistad. Nos veíamos como duros guerreros. "Pueden quitarnos la vida, pero jamás nos quitarán... ¡la libertad!". Y pasara lo que pasara, "siempre nos quedará verano", nos animabamos...
+Y con nuestra ingenuidad, seguimos adelante. Este podría ser el principio de una bella amistad. Nos veíamos como duros guerreros. "Pueden quitarnos la vida, pero jamás nos quitarán... ¡la libertad!". O sí. Y pasara lo que pasara, "siempre nos quedará verano". Nos animabamos pensando "hay un ingeniero...
+técnico
+...en mí"
 
-La carrera nos ha cambiado. Ahora somos del doble grado. Así es cómo nos llamamos. Somos como un equipo. En plan "Los más poderosos entre los grados". Nos encanta el olor a tizas por la mañana... y resolver ecuaciones que harían vomitar a una cabra. Hemos bebido más café, hemos repetido más teoremas, hemos picado más código y hemos arreglado más bugs que todos vosotros juntos.
+La carrera nos ha cambiado. Ahora somos del doble grado. Así es cómo nos llamamos. Somos como un equipo. En plan "Los más poderosos entre los grados". Nos encanta el olor a tizas por la mañana... y resolver ecuaciones que harían vomitar a una cabra. En cada nuevo curso hemos bebido más café, hemos repetido más teoremas, hemos picado más código y hemos arreglado más bugs que todos los años previos juntos.
 
 Nosotros... hemos visto cosas que no creeríais: Poner procesadores en llamas más allá de la hora de ejecución. Hemos visto la luz brillar en la oscuridad cerca de la quinta dimensión. Todos esos momentos se perderán... en el tiempo... como lágrimas en la lluvia.
 
@@ -41,24 +48,6 @@ Nosotros... hemos visto cosas que no creeríais: Poner procesadores en llamas m�
 Recordad, lo único que os ofrecemos es la verdad, nada más.
 ...
 
-Pero sobre todo nos hemos tenido los unos a los otros. Somos pocos y aún no ha parido la abuela, aún así nos hemos dividido, segregado y hecho la mitosis. Risas ha habido muchas, nunca ha faltado alguna tontería, muchas veces relacionada con la materia de alguna asignatura, lo cual tiene bastante mérito. Pero ayyy cuando nos mezclaron, cuando dejamos de ser ese grupo único, ese club de los poeta muertos, ayyy como atacaran a alguno de los nuestros. Entonces sácabamos el sarcasmo, la inquina y el sentimiento de grupo. ¡Que somos doble gradistas!   
-
-Somos doble gradistas y estamos orgullosos de ello, si no mirad lo feos que son el azul y el marrón juntos, pero qué porras, nos ponemos los dos colores porque podemos y porque Agatha Ruíz de la Prada aprueba esto.
-
-...
-
 Por último, es necesario aclarar que si nos quejamos, no es por vicio o por costumbre, sino porque creemos que se puede mejorar el doble grado para que sea, como se pretendía, de excelencia. Y no sólo el grado puede mejorar, sino también la Universidad, que debería ser pública, laica, feminista y eficiente.
 
 Vamos a ir acabando, que los de 4º vienen con fuerza y hay que encontrar trabajo antes de que salgan ellos.
-
-Vamos a intentar mostrar las situaciones por las que pasamos en la carrera, lo haremos de forma dramática y exagerada, aunque aquello que relatemos sobre situaciones que involucren profesores no, esto será más real que un número complejo en el eje de abcisas. Deciros en primer lugar que hemos preparado a conciencia el discurso ya que se nos ha dicho que el método de evaluación es como en IA 10 ptos al primero y menos dos al resto.
-
-La verdad es que el inicio de la carrera se asemeja un tanto a los inicios en la escuela, para aprender a escribir teníamos que hacer caligrafías Rubio, aquí para aprender a escribir código teníamos que seguir el método Cubero que si no...  .Anda que no hemos tenido altibajos y lo que nos han sufrido nuestras madres, algunas más que otras, pero siempre, como si fuese Toy Story, cuando nos sentíamos decaídos pensábamos "hay un ingeniero en mí".
-
-Lo más curioso de esta carrera es la concentración de estudiantes de Priego, son como los chinos en los torneos de Ping-Pong.
-
-¿Recordáis la canción "Tiene nombres mil" de Leonardo Dantés? Pues lo mismo se puede hacer para los exámenes, porque son exámenes: ni control, ni pruebecilla, ni ejercicio en clase, ni parcialillo, ni simulacro, ni algo que hay que hacer para que estudiéis, ni nada de eso. Examen, con sus suspensos y sus cosas de examen.
-
-Anda que no daría alegraría tener acabada una práctica y que la atrasaran para poder hacer cosas extra, digo alegraría porque eso no ha pasado, si nos retrasan ahora una entrega de SWAP nos vamos directos de la graduación a acabarla.
-
-¿Y esa tensión en Métodos II cuando podías suspender todo lo que llevabas aprobado por un examen de prácticas en el que tenías que llevar los códigos impresos y copiarlos a mano en el ordenador?

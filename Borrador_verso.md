@@ -51,6 +51,11 @@ en las cosas importantes
 como en condenar los actos de la tuna  
 o en llamar a UGGI ignorante.
 
+Hay quien nos ve como una secta,  
+con ritos ocultos y prohibidos,  
+escribiendo todo en Latex,  
+y con Arch como sistema operativo.
+
 Entre los lugares habituales,  
 los hay peores y mejores,  
 como la 1.8 o la M2,  
@@ -66,6 +71,16 @@ luego gire a la izquierda, ha llegado a su destino,
 corriendo de la facultad a la ETSIIT,  
 más mareados que un cartero chino.
 
+Mentalizados, los exámenes programados
+cubriendo todo el calendario,  
+y en primero, Cálculo I,
+0,1,1,0, notas en binario.
+
+Como el cuadernillo Rubio para caligrafía,  
+nos enseñaron a programar en primero,
+todas las dudas las resolvían  
+los apuntes de Cubero.
+
 Llevar la calculadora a los exámenes  
 como el que lleva una estampita  
 ni te va a ayudar a aprobar,  
@@ -75,11 +90,6 @@ Hay sin resolver preguntas pendientes,
 que no deben quedarse en el tintero,  
 como si de veras existe la topología cociente,  
 o si el cuadrado de fin de demostración es hueco o relleno.
-
-Mentalizados, los exámenes programados
-cubriendo todo el calendario,  
-y en primero, Cálculo I,
-0,1,1,0, notas en binario.
 
 Menos mal que en Informática  
 el color de la banda es marrón y no rojo  
